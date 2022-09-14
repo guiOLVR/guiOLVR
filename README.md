@@ -16,7 +16,8 @@ function Desenvolvedor() {
     atuacao: "Desenvolvedor Full Stack"
   }
 
-  const openToWorkAnswer = openToWork ? "e estou em busca de novas oportunidades." : ".";
+  const openToWorkAnswer = openToWork ? 
+    "e estou em busca de novas oportunidades." : ".";
 
   return (
     `${dev.nome}, ${dev.idade} anos, formado em ${dev.graduacao}
