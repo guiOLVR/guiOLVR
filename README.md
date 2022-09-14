@@ -52,10 +52,10 @@ function Desenvolvedor() {
   </a>
   
   <a href="https://www.linkedin.com/in/guilherme-monteiro-de-oliveira-8969ab84/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/joaovictor08/"/>
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/guilherme-monteiro-de-oliveira-8969ab84/"/>
   </a>
   <a href="https://www.instagram.com/_gui.olvr/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/viictorjj/"/>
+    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.linkedin.com/in/guilherme-monteiro-de-oliveira-8969ab84/"/>
   </a> 
 </p>
 <div align="center">
