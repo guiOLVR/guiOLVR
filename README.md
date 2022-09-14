@@ -6,16 +6,20 @@
 <img align="right" width="250" height="280" src="https://raw.githubusercontent.com/iuricode/iuricode/main/ilus-code.svg" />
 <img align="left" width="50" alt="about" src="https://media.discordapp.net/attachments/839607191693426709/1019417007499776161/Hacker-pana.png?width=650&height=650"> <h2>About me</h2>
 
-```Python
-class pentester():
-    def __init__(self):
-        self.nome = "Guilherme"
-        self.graduacao = "Análise e Desenvolvimento de sistemas"
-        self.atuacao = "Desenvolvedor Full Stack"
-        return print(self.nome,self.graduacao,self.atuacao)
-if __name__ == "__main__":
-    Guilherme = pentester()
-    print(Guilherme)
+```js
+function Desenvolvedor() {
+  const openToWork = true;
+  const dev = {
+    nome: "Guilherme",
+    idade: 28,
+    graduacao: "Análise e Desenvolvimento de sistemas",
+    atuacao: "Desenvolvedor Full Stack"
+  }
+
+  const openToWorkAnswer = openToWork ? "e estou em busca de novas oportunidades." : ".";
+
+  return `${dev.nome}, ${dev.idade} anos, formado em ${dev.graduacao} e atuo como ${dev.atuacao} ${openToWorkAnswer}`;
+}
 ```
 
 <h2 align="left">Languages and Tools:</h2>
