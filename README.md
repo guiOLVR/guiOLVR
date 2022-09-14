@@ -18,7 +18,10 @@ function Desenvolvedor() {
 
   const openToWorkAnswer = openToWork ? "e estou em busca de novas oportunidades." : ".";
 
-  return `${dev.nome}, ${dev.idade} anos, formado em ${dev.graduacao} e atuo como ${dev.atuacao} ${openToWorkAnswer}`;
+  return (
+    `${dev.nome}, ${dev.idade} anos, formado em ${dev.graduacao}
+     e atuo como ${dev.atuacao} ${openToWorkAnswer}`
+  );
 }
 ```
 
