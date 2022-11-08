@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6610F2&size=32&center=true&vCenter=true&width=1000&height=30&lines=Hello,+my+name+is+Guilherme+;I+am+28+years+old;Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 </br>
 </br>
-<img align="right" width="250" height="280" src="https://raw.githubusercontent.com/iuricode/iuricode/main/ilus-code.svg" />
+<img align="right" width="250" height="280" src="https://raw.githubusercontent.com/iuricode/iuricode/6f53be9b4b6e6bb84b5276b8817c18a05adb78d5/ilus-code.svg" />
 <img align="left" width="50" alt="about" src="https://media.discordapp.net/attachments/839607191693426709/1019417007499776161/Hacker-pana.png?width=650&height=650"> <h2>About me</h2>
 
 ```js
